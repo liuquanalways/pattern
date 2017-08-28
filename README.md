@@ -1,0 +1,2 @@
+# pattern
+learn design pattern
