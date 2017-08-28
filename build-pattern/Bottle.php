@@ -14,7 +14,7 @@ class Bottle implements Packing
 
     public function pack()
     {
-        echo "packing by bottle.\n";
+        echo "packing by bottle";
     }
 
 }

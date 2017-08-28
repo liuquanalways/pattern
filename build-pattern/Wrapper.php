@@ -14,7 +14,7 @@ class Wrapper implements Packing
 
     public function pack()
     {
-        echo "packing by wrapper.\n";
+        echo "packing by wrapper";
     }
 
 }
